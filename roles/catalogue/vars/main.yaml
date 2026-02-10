@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.lakshmi.cyou
+MONGODB_HOST: mongodb-{{ ENV }}.lakshmi.cyou
