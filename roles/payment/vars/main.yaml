@@ -1,5 +1,5 @@
-CART_HOST: cart.lakshmi.cyou
-USER_HOST: user.lakshmi.cyou
-RABBITMQ_HOST: rabbitmq.lakshmi.cyou
+CART_HOST: cart.backend-{{ env }}.lakshmi.cyou
+USER_HOST: user.backend-{{ env }}.lakshmi.cyou
+RABBITMQ_HOST: rabbitmq-{{ env }}.lakshmi.cyou
 RABBITMQ_USER: roboshop
 RABBITMQ_PASSWORD: roboshop123

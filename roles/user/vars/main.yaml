@@ -1,2 +1,2 @@
-REDIS_HOST: redis.lakshmi.cyou 
-MONGODB_HOST: mongodb.lakshmi.cyou
+REDIS_HOST: redis-{{ env }}.lakshmi.cyou 
+MONGODB_HOST: mongodb-{{ env }}.lakshmi.cyou

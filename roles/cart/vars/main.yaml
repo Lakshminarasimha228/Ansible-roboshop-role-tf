@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.lakshmi.cyou
-REDIS_HOST: redis.lakshmi.cyou
+CATALOGUE_HOST: catalogue.backend-{{ env }}.lakshmi.cyou
+REDIS_HOST: redis-{{ env }}.lakshmi.cyou
