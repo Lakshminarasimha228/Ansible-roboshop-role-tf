@@ -1,5 +1,5 @@
 CATALOGUE_HOST: catalogue.backend-{{ env }}.lakshmi.cyou
-USER_HOST: user.lakshmi.backend-{{ env }}.cyou
-CART_HOST: cart.lakshmi.backend-{{ env }}.cyou
+USER_HOST: user.backend-{{ env }}.lakshmi.cyou
+CART_HOST: cart.backend-{{ env }}.lakshmi.cyou 
 SHIPPING_HOST: shipping.backend-{{ env }}.lakshmi.cyou
 PAYMENT_HOST: payment.backend-{{ env }}.lakshmi.cyou
